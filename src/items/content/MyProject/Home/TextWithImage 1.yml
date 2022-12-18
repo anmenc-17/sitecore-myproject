@@ -17,14 +17,17 @@ Languages:
     - ID: "7043b909-f926-4f21-b746-9066bda48006"
       Hint: Image
       Value: |
-        <image mediaid="{0B172AF8-1336-53C7-8D5B-DE72DEE56DC7}" ></image>
+        <image mediaid="{DDCDF676-0762-4625-8E73-74D47ACA7BBF}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b68ae1cb-86d7-4fba-a19d-e7a44174a3b1"
+      Value: "55d4e92c-ae50-49c6-8805-6eef89c2b992"
+    - ID: "a4b33129-1587-4e46-adc6-7c3304db2298"
+      Hint: Headline
+      Value: Headline 1
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221217T224842Z
+      Value: 20221218T210146Z

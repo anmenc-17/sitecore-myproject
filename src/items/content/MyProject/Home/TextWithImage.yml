@@ -11,13 +11,17 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20221216T183517Z
+    - ID: "7043b909-f926-4f21-b746-9066bda48006"
+      Hint: Image
+      Value: |
+        <image mediaid="{DDCDF676-0762-4625-8E73-74D47ACA7BBF}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4914aec1-2d00-450e-92fa-a4f03e74237f"
+      Value: "84ae1b61-a383-424f-a3dc-85ed82372fa1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221216T183517Z
+      Value: 20221218T210624Z

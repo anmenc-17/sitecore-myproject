@@ -14,13 +14,16 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20221216T183838Z
+    - ID: "49283510-3de5-477b-8325-90b5ef3ddadd"
+      Hint: Text
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pellentesque vestibulum malesuada. Nullam quam nulla, pharetra id tristique eget, hendrerit vel odio. Quisque vestibulum sollicitudin lorem et mollis. Pellentesque pharetra faucibus metus. Aliquam lacinia tellus vitae arcu porttitor fringilla. Aliquam aliquet pharetra nulla in commodo. Ut egestas faucibus pretium. Mauris lobortis nisi nec gravida iaculis. Donec congue aliquet quam eu facilisis. Aenean urna nunc, egestas ac ex laoreet, finibus fringilla libero. Morbi lacinia et purus eget efficitur.
     - ID: "7043b909-f926-4f21-b746-9066bda48006"
       Hint: Image
       Value: |
-        <image mediaid="{0B172AF8-1336-53C7-8D5B-DE72DEE56DC7}" ></image>
+        <image mediaid="{69FE7B7A-7455-4381-9CCD-1F44BAC6BD65}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1650c8fb-b555-426e-9a89-b4c0ef1893c1"
+      Value: "0e1cbef5-65fc-4282-845c-c55d5dbfd343"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -30,4 +33,4 @@ Languages:
       Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221216T184112Z
+      Value: 20221218T211735Z

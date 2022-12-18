@@ -1,0 +1,55 @@
+﻿---
+ID: "7d0dcbf2-d051-4ba8-8b8c-51d28d747f8b"
+Parent: "38c03d5f-975a-48ed-b3b2-a0545cfe223c"
+Template: "9af317c9-7710-4d6c-9749-bfb5c80ffcbb"
+Path: /sitecore/content/MyProject/home/Articles/Article 4/Article
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "105f938a-50f1-4ff3-91d7-80045c6bbaf3"
+      Hint: Publishing Date
+      Value: 20221208T220000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221218T193742Z
+    - ID: "504dd4e4-0e18-4661-80bc-4bb596fa3648"
+      Hint: Article Body
+      Value: |
+        <div id="lipsum" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; text-align: justify;">
+        <p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis magna sed arcu porttitor, sit amet maximus magna imperdiet. Nam at aliquet ipsum. Suspendisse scelerisque nulla ac ipsum vulputate, vitae suscipit justo ultrices. Cras sem arcu, malesuada non ligula feugiat, mollis posuere nibh. Duis a feugiat risus. Donec tincidunt ipsum vitae sapien sollicitudin consequat. Ut accumsan dolor quis enim vehicula hendrerit. Aenean pretium, libero quis condimentum pulvinar, ex augue tempus eros, non pellentesque odio lectus non ipsum. Integer at molestie nulla. Phasellus est quam, vulputate et rutrum vel, rutrum vel nibh. Sed lectus tortor, rhoncus at lectus ac, laoreet tempor justo. Proin ac metus tincidunt, luctus lacus ac, gravida dui.</p>
+        <p style="margin: 0px 0px 15px; padding: 0px;"><em>Praesent congue, erat in vehicula rutrum, ante erat pulvinar nulla, non luctus lacus urna sit amet risus. Praesent non lectus sed purus molestie mattis. In vel fringilla ex, vitae maximus mauris. Morbi volutpat nulla nisi, lacinia tempor sem euismod vel. Nam et tincidunt libero. Sed blandit tristique est ac ultrices. Vestibulum rhoncus elementum viverra. Integer vitae lectus sem. Vivamus elit turpis, faucibus sed lobortis id, volutpat quis odio. Donec ut bibendum leo. Morbi interdum ante imperdiet, vehicula velit in, fermentum neque. Sed molestie dolor suscipit interdum tristique. Donec efficitur, quam molestie consectetur dignissim, sem diam consectetur magna, sed tincidunt metus est quis erat. Morbi luctus urna eu elit commodo, vitae pulvinar nibh pulvinar. Proin ut ultrices ipsum. Vivamus nibh nunc, convallis semper odio vel, fermentum blandit eros.</em></p>
+        <p style="margin: 0px 0px 15px; padding: 0px;">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam a consequat arcu. Mauris nunc felis, sagittis nec blandit id, tempor eu diam. Suspendisse sit amet purus ipsum. Phasellus consectetur tellus lectus, eget auctor lacus consequat sed. Etiam consectetur urna sed rutrum ornare. Donec sit amet dui sollicitudin, euismod mi eu, hendrerit urna. Ut tristique accumsan finibus. Mauris sit amet metus at odio varius tempus non nec leo.</p>
+        <p style="margin: 0px 0px 15px; padding: 0px;">Ut eu libero at ante ornare lobortis. Ut bibendum, nibh ut faucibus malesuada, ipsum leo auctor felis, sed laoreet velit purus non augue. Etiam sodales, nisi vitae convallis commodo, quam turpis pretium nibh, at accumsan ipsum ante sed ex. Praesent non porttitor metus, sed sodales enim. Vestibulum ut odio lacinia, cursus erat et, congue purus. Proin nibh felis, viverra in elit id, consequat ultrices purus. Quisque nec tempus mi, id fringilla neque.</p>
+        <p style="margin: 0px 0px 15px; padding: 0px;">Aenean dignissim odio ac neque imperdiet dapibus. Integer ac porttitor nunc, at hendrerit ante. Pellentesque quis turpis dui. Cras tincidunt sem lorem, ut volutpat sem consectetur sed. Vivamus rhoncus cursus purus, vitae luctus est pretium nec. Fusce nisi risus, elementum non lobortis id, cursus ac nibh. Phasellus ac nisl vulputate, laoreet justo nec, porttitor arcu. In enim nulla, blandit non mollis sit amet, consectetur vel dui. Sed orci risus, interdum ac bibendum luctus, sollicitudin nec velit. Sed sodales erat quis massa venenatis iaculis id a turpis. Integer in augue sed elit faucibus sodales. Curabitur in ligula vel mauris vehicula pulvinar. Nulla facilisi. Aenean consequat dui eu condimentum pulvinar. Praesent at rutrum tellus. Nullam eu consectetur urna.</p>
+        <div>&nbsp;</div>
+        </div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6f7dbeb2-2caf-4cfe-8e5c-aa51d4c3d38f"
+      Hint: Category
+      Value: Travel
+    - ID: "7b45c0e9-ff2e-466b-b025-ccb5606bafd6"
+      Hint: Title
+      Value: Road
+    - ID: "7bf23061-d8b9-4da9-b5a8-4ddc5bbe6de5"
+      Hint: Image
+      Value: |
+        <image mediaid="{21C37CF7-4DF8-429D-B049-FAEF4C72D823}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66526d72-d749-4f1f-b38c-3af0cfdfc50c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221218T195412Z

@@ -1,0 +1,59 @@
+﻿---
+ID: "14ccfb6c-84ce-4f4c-95a0-70722214c19a"
+Parent: "330cf7e5-9294-477b-b5bd-ecec161233b2"
+Template: "34844fa9-7415-4e68-bc06-fe858748f555"
+Path: /sitecore/content/MyProject/home/Products/Product 3/Product
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04e8f048-490b-4c20-a989-c26849a5ec66"
+      Hint: PDF
+      Value: |
+        <file mediaid="{BF0665F4-D6F3-48BB-9CD8-739EB5566051}" src="-/media/BF0665F4D6F348BB9CD8739EB5566051.ashx" />
+    - ID: "07d116e1-8de7-44e9-b295-e2fd36f47009"
+      Hint: Product name
+      Value: Watch
+    - ID: "107a1950-445c-4b85-80d9-03b7d70a6921"
+      Hint: ShowInCarousel
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221218T193849Z
+    - ID: "352d1113-da16-4a22-b465-02fca9526be6"
+      Hint: Packaging info
+      Value: 10x20x10
+    - ID: "44b00e56-99e4-473c-80cf-8b46ff1cba16"
+      Hint: Description
+      Value: |
+        Praesent congue, erat in vehicula rutrum, ante erat pulvinar nulla, non luctus lacus urna sit amet risus. Praesent non lectus sed purus molestie mattis. In vel fringilla ex, vitae maximus mauris. Morbi volutpat nulla nisi, lacinia tempor sem euismod vel. Nam et tincidunt libero. Sed blandit tristique est ac ultrices. Vestibulum rhoncus elementum viverra. Integer vitae lectus sem. Vivamus elit turpis, faucibus sed lobortis id, volutpat quis odio. Donec ut bibendum leo. Morbi interdum ante imperdiet, vehicula velit in, fermentum neque. Sed molestie dolor suscipit interdum tristique. Donec efficitur, quam molestie consectetur dignissim, sem diam consectetur magna, sed tincidunt metus est quis erat. Morbi luctus urna eu elit commodo, vitae pulvinar nibh pulvinar. Proin ut ultrices ipsum. Vivamus nibh nunc, convallis semper odio vel, fermentum blandit eros.
+        
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam a consequat arcu. Mauris nunc felis, sagittis nec blandit id, tempor eu diam. Suspendisse sit amet purus ipsum. Phasellus consectetur tellus lectus, eget auctor lacus consequat sed. Etiam consectetur urna sed rutrum ornare. Donec sit amet dui sollicitudin, euismod mi eu, hendrerit urna. Ut tristique accumsan finibus. Mauris sit amet metus at odio varius tempus non nec leo.
+        
+        
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61436554-630c-48a9-b4ea-876b9271ea4a"
+      Hint: Image
+      Value: |
+        <image mediaid="{E26AB4F3-6A26-49C8-BE6A-7AFBDCAC2A1C}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eaab1664-c504-484c-a85a-0e6820e03360"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221218T200027Z

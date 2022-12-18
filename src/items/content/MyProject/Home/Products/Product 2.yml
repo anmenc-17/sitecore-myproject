@@ -15,6 +15,26 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F0F6F8DD-D9ED-4257-BDCB-9C7B57E4B0A0}"
+              p:after="p[@uid='{C0858E4A-8D59-5AC6-9BF1-697B5BBB4D13}']"
+              s:id="{32937322-35B7-4276-85DD-3F408D497028}"
+              s:ph="NavPlaceholder" />
+            <r
+              uid="{77AB0496-7033-4D17-BE9A-DCF65C2EEE2C}"
+              p:after="*[1=2]"
+              s:ds="{C659C2AC-55B3-4922-9AAF-5D6AD63D3952}"
+              s:id="{CC3195C5-D85A-46CC-BCC5-D501C48F2147}"
+              s:ph="jss-main" />
+          </d>
+        </r>
     - ID: "09265946-b966-5034-bad7-94e0d935147a"
       Hint: pageTitle
       Value: Product 2
@@ -34,11 +54,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "35a6b68e-2554-4f1e-a4a2-96a00db467da"
+      Value: "f8aad062-fe03-473d-a847-a205da1d867c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221216T101430Z
+      Value: 20221218T184510Z

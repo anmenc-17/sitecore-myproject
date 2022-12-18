@@ -1,0 +1,41 @@
+﻿---
+ID: "c3646a2a-bae8-4294-bb69-bc3e5f59dd03"
+Parent: "5950c26d-6290-4650-b1ab-5b5a0edaa613"
+Template: "5a0af643-0403-492b-ac95-978ae2c4ecb4"
+Path: /sitecore/content/MyProject/home/Legal Pages/SimpleText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17422eaf-325e-428f-8127-3344f7c72dba"
+      Hint: Headline
+      Value: Legal pages
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221218T185717Z
+    - ID: "3e13e5b4-9f24-4112-9526-6150c9b07ea5"
+      Hint: Text
+      Value: |
+        <p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at est sapien. Aliquam tristique gravida lectus vel fermentum. Vivamus id purus a mauris rutrum ultrices. Nullam porta rutrum cursus. Duis condimentum consectetur orci id rhoncus. Sed sollicitudin cursus ante pretium varius. Integer eros ante, sollicitudin non semper sit amet, pretium eget leo. Pellentesque a ipsum sollicitudin, congue diam nec, cursus metus. Nunc mollis odio a sem venenatis convallis. Curabitur vestibulum tempor ipsum id dictum. Sed gravida fermentum nulla, a tristique dolor sollicitudin in. Ut vitae dui rhoncus, eleifend libero eu, rutrum nibh. Aliquam erat volutpat. Aenean ante augue, ullamcorper sit amet sagittis sit amet, luctus et augue. Suspendisse dolor erat, eleifend sit amet tortor non, cursus aliquet justo.</p><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;">Proin eu elit ac magna porttitor commodo. Vestibulum laoreet efficitur pulvinar. Cras dapibus tortor at varius dictum. Vestibulum dictum vestibulum volutpat. Praesent eu gravida dolor. Etiam lacinia pellentesque varius. Morbi pharetra urna sit amet lacus aliquet, sed faucibus ante condimentum. Ut et lectus nunc. Nulla facilisi. Vivamus neque eros, fringilla in gravida luctus, sodales sed velit. Pellentesque tristique consectetur diam, eget iaculis libero gravida ornare. Etiam vel libero sed ex placerat aliquet. Mauris ac ante mi.</p><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px;">Suspendisse vitae est vitae magna accumsan dictum ac rhoncus nibh. Nulla suscipit mauris at odio rhoncus egestas. Morbi eget nunc vel neque viverra pretium. Curabitur eros urna, aliquam ut commodo ut, volutpat vel neque. Nam euismod libero libero, vitae auctor nisl pellentesque ut. In congue sem eget malesuada feugiat. Nam nisi augue, finibus eu lacus at, congue commodo augue. Nunc tempor scelerisque odio et placerat. Sed et purus nisl. Pellentesque sit amet imperdiet ex. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam aliquet sodales diam vel tincidunt. Phasellus at facilisis tellus. Praesent at ornare lectus. Fusce ac dolor ac purus hendrerit egestas.</p><br class="Apple-interchange-newline" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1edffbbd-26b9-408c-9d19-1a86de7f0ece"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221218T185746Z

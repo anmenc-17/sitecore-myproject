@@ -17,7 +17,10 @@ Languages:
         <file mediaid="{BF0665F4-D6F3-48BB-9CD8-739EB5566051}" src="-/media/BF0665F4D6F348BB9CD8739EB5566051.ashx" />
     - ID: "07d116e1-8de7-44e9-b295-e2fd36f47009"
       Hint: Product name
-      Value: Product 1
+      Value: Camera
+    - ID: "107a1950-445c-4b85-80d9-03b7d70a6921"
+      Hint: ShowInCarousel
+      Value: 1
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20221216T130229Z
@@ -38,14 +41,14 @@ Languages:
     - ID: "61436554-630c-48a9-b4ea-876b9271ea4a"
       Hint: Image
       Value: |
-        <image mediaid="{C974FCC6-45AA-43A4-B81D-9B7AF0F14257}" />
+        <image mediaid="{A1258BD2-5DB4-40EB-9DF2-E488A8008A03}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6b728f82-e948-46d8-8444-1dc080e51276"
+      Value: "60c407ca-da2b-4f13-963c-6d486e86e093"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221216T143623Z
+      Value: 20221218T194812Z

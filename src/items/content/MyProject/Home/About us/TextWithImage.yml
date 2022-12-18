@@ -20,10 +20,10 @@ Languages:
     - ID: "7043b909-f926-4f21-b746-9066bda48006"
       Hint: Image
       Value: |
-        <image mediaid="{0B172AF8-1336-53C7-8D5B-DE72DEE56DC7}" ></image>
+        <image mediaid="{B125D38A-5964-47CF-8CC5-C477BDA5E36B}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "53bfd361-e339-4f59-a5af-8232963a830c"
+      Value: "c091fcfa-0307-423a-aef8-3c86416a4cc3"
     - ID: "a4b33129-1587-4e46-adc6-7c3304db2298"
       Hint: Headline
       Value: 
@@ -36,4 +36,4 @@ Languages:
       Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221216T184100Z
+      Value: 20221218T210807Z
