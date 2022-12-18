@@ -1,0 +1,51 @@
+﻿---
+ID: "5b8338ae-adab-4819-ac0e-e5b299619d54"
+Parent: "216505d3-99db-4cce-9420-27239088aeba"
+Template: "9af317c9-7710-4d6c-9749-bfb5c80ffcbb"
+Path: /sitecore/content/MyProject/home/Articles/Article 1/Article
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "105f938a-50f1-4ff3-91d7-80045c6bbaf3"
+      Hint: Publishing Date
+      Value: 20221130T220000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221215T104106Z
+    - ID: "504dd4e4-0e18-4661-80bc-4bb596fa3648"
+      Hint: Article Body
+      Value: |
+        <p style="color: #000000; background-color: #ffffff; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify;"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing</strong> elit. <em>Donec ullamcorper</em> luctus felis, sed venenatis dolor malesuada vitae. Pellentesque consectetur, sem id pharetra vehicula, est metus fermentum nisl, at tempor dolor risus eu neque. Morbi in massa pellentesque, placerat metus sit amet, imperdiet dolor. Phasellus mi nisl, tristique quis facilisis vitae, porttitor ac odio. Vivamus aliquet urna rutrum odio dapibus, ut gravida quam ultrices. Morbi id enim vel ligula pellentesque feugiat et in tortor. Pellentesque a blandit ante. Curabitur a maximus velit, ac fringilla nulla. Etiam sollicitudin, lorem eu laoreet cursus, lectus risus commodo elit, eu posuere tortor quam porta orci. Vestibulum gravida felis sed felis malesuada, a euismod turpis iaculis. Proin dolor erat, elementum vitae leo vel, mattis fringilla ex.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Pellentesque imperdiet pulvinar cursus. Ut interdum vestibulum ex vel molestie. Nam id tempus purus. Mauris ultrices nulla sem, nec eleifend nulla cursus et. Ut consequat rhoncus nisi. Etiam iaculis sapien ac tortor dignissim imperdiet. Morbi egestas, nibh in malesuada tincidunt, est purus egestas felis, sed sodales dolor erat ut arcu. Phasellus eget ullamcorper nisl. Vestibulum sodales dolor vel porttitor lobortis. In pharetra rhoncus ante, vitae euismod turpis convallis quis.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse a quam id nisl interdum volutpat vel at dolor. Pellentesque a neque id eros efficitur efficitur nec ac erat. Fusce commodo facilisis convallis. Proin sed odio sit amet enim consectetur faucibus non id neque. Proin mattis consequat ligula ut lacinia. Ut quis consectetur ipsum. Maecenas sodales dapibus tellus, vel viverra elit rhoncus a. Maecenas vehicula consectetur laoreet. Ut non orci a ex consectetur pharetra et non ligula. Fusce eu pharetra diam. Duis sit amet leo ut mauris lobortis euismod non et nunc.</p>
+        <div>&nbsp;</div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6f7dbeb2-2caf-4cfe-8e5c-aa51d4c3d38f"
+      Hint: Category
+      Value: Sport
+    - ID: "7b45c0e9-ff2e-466b-b025-ccb5606bafd6"
+      Hint: Title
+      Value: Article content title 1
+    - ID: "7bf23061-d8b9-4da9-b5a8-4ddc5bbe6de5"
+      Hint: Image
+      Value: |
+        <image mediaid="{DDCDF676-0762-4625-8E73-74D47ACA7BBF}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c65e540-661e-48db-b186-1814f6a47398"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221217T173945Z

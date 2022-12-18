@@ -1,0 +1,14 @@
+﻿@model MyProject.Models.MyProject.TextWithImageModel
+
+<div class="row align-items-center mb-3">
+    <sc-img asp-for="Image" height="100%" class="col" style="object-fit: contain; max-width: 50%;"></sc-img>
+
+    <div class="col mb-5">
+        <h3 asp-for="Headline"></h3>
+        <p asp-for="Text" class="card-title"></p>
+        
+        @if (!string.IsNullOrEmpty(Model.Link.Value.Target)) {
+            <a href="@Model.Link" class="link-primary text-end">Read more</a>
+        }
+    </div>
+</div>

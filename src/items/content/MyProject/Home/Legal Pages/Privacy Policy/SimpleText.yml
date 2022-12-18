@@ -1,0 +1,48 @@
+﻿---
+ID: "aa07805a-90bd-4d46-a3b1-b3f3cbc69969"
+Parent: "c1cf8b27-7b96-4b45-803d-d517b61fd2e5"
+Template: "5a0af643-0403-492b-ac95-978ae2c4ecb4"
+Path: /sitecore/content/MyProject/home/Legal Pages/Privacy Policy/SimpleText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17422eaf-325e-428f-8127-3344f7c72dba"
+      Hint: Headline
+      Value: Privacy Policy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T195233Z
+    - ID: "3e13e5b4-9f24-4112-9526-6150c9b07ea5"
+      Hint: Text
+      Value: |
+        <p style="color: rgba(0, 0, 0, 0.87); margin: 10px 0px; padding-top: 20px; line-height: 1.714;">We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:</p>
+        <ul style="color: rgba(0, 0, 0, 0.87); margin: 0px 0px 0px 16px; padding: 0px;">
+            <li style="padding-top: 20px; padding-left: 16px; line-height: 1.714;">Google apps, sites, and devices, like Search, YouTube, and Google Home</li>
+            <li style="padding-top: 20px; padding-left: 16px; line-height: 1.714;">Platforms like the Chrome browser and Android operating system</li>
+            <li style="padding-top: 20px; padding-left: 16px; line-height: 1.714;">Products that are integrated into third-party apps and sites, like ads, analytics, and embedded Google Maps</li>
+        </ul>
+        <p style="color: rgba(0, 0, 0, 0.87); margin: 10px 0px; padding-top: 20px; line-height: 1.714;">You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content like emails and photos, or see more relevant search results. And you can use many Google services when you&rsquo;re signed out or without creating an account at all, like searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like Chrome Incognito mode. And across our services, you can adjust your privacy settings to control what we collect and how your information is used.</p>
+        <div>&nbsp;</div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e096461-3ce4-4fe9-a8a4-5cba8d239e14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221216T195425Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "4f4ebf1f-b8a7-4707-9500-416b1c2312a8"
+Parent: "ca3d5cc0-f313-5d94-bcf3-eccb6ade5067"
+Template: "6710b659-f8d0-4452-9314-39e713c35979"
+Path: /sitecore/content/MyProject/home/HeroBanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "12237f8d-e617-4621-8162-461171b8bdb9"
+      Hint: Headline
+      Value: Home Page
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221217T223313Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a045d72-e237-4d10-80bb-9e641e370c07"
+    - ID: "979fd862-1e09-40cf-8533-d1a2241c1bf3"
+      Hint: CTA
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bdb5da65-0596-4361-b0ed-edb0a0bc8396"
+      Hint: Image
+      Value: |
+        <image mediaid="{5FE60F95-6C45-4D61-AC81-4EE5D7C20C4D}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221217T224442Z

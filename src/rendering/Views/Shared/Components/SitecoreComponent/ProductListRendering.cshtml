@@ -1,0 +1,22 @@
+﻿@using MyProject.Models.MyProject
+
+@model ProductListModel
+
+@if (Model == null)
+{
+    <p>The object is null</p>
+}
+else if (Model.ProductCards == null)
+{
+
+    <p>The ProductCards is null</p>
+}
+else
+{
+    <div class="card-deck">
+        @foreach (var productCard in Model.ProductCards.OrderBy(x => x.Title))
+        {
+            @await Html.PartialAsync("Components/MyProject/ProductCard", productCard)
+        }
+    </div>
+}

@@ -1,0 +1,12 @@
+﻿@model MyProject.Models.DataSourceExampleModel
+
+<h2>Simple rendering example</h2>
+<h3 asp-for="Title"></h3>
+<sc-text asp-for="BodyText"></sc-text>
+<div>
+    <sc-img asp-for="FeaturedImage" />
+</div>
+<p>
+    <a asp-for="PromoLink" target="_blank">My Link Youtube</a>
+</p>
+<p asp-for="ExampleDate" date-format="D"></p>

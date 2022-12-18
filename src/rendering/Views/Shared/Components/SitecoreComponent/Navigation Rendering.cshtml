@@ -1,0 +1,23 @@
+﻿@model NavigationModel
+
+@if (Model != null) 
+{
+    <ul>
+        <li><a href="@Model.Url">Home</a></li>
+        @foreach (var navigation in Model.Children)
+        {
+            <li>
+                <a href="@navigation.Url">@navigation.Title</a>
+                @if (@navigation.Children != null)
+                {
+                    <ul>
+                        @foreach (var childNav in navigation.Children)
+                        {
+                            <li><a href="@childNav.Url" class="link-primary">@childNav.Title</a></li>
+                        }
+                    </ul>
+                }
+            </li>
+        }    
+    </ul>
+}

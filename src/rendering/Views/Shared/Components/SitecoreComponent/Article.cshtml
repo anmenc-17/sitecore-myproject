@@ -1,0 +1,13 @@
+﻿@model MyProject.Models.MyProject.ArticleModel
+
+<div class="card p-3 mb-3">
+    <h3 asp-for="Category"></h3>
+    <p asp-for="Date" class="card-text text-end" date-format="D"></p>
+    <h2 asp-for="Title" class="card-title"></h2>
+    <div>
+        <sc-img asp-for="Image" class="card-img-top" style="object-fit: contain;"></sc-img>
+        <div class="card-body">
+            <sc-text class ="card-text" asp-for="ArticleBody" />
+        </div>
+    </div>
+</div>

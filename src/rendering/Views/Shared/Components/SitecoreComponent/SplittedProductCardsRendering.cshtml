@@ -1,0 +1,20 @@
+﻿@using MyProject.Models.MyProject
+@model ProductListModel
+
+@{
+    var cards = Model.ProductCards
+        .OrderBy(x => x.Title)
+        .Take(2)
+        .ToList();
+
+    var firstCard = cards.FirstOrDefault();
+    var lastCard = cards.LastOrDefault();
+}
+
+<div class="row card-deck mb-3">
+    <div class="col-1"></div>
+    @await Html.PartialAsync("Components/MyProject/ProductCard", firstCard)
+    <div class="col-3"></div>
+    @await Html.PartialAsync("Components/MyProject/ProductCard", lastCard)
+    <div class="col-1"></div>
+</div>

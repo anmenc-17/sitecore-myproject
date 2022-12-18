@@ -1,0 +1,20 @@
+﻿@model MyProject.Models.MyProject.ProductCardModel
+@{
+    const int MaxCharachters = 50;
+
+    if (Model.Description.Length > MaxCharachters)
+    {
+        Model.Description = $"{Model.Description.Substring(0, MaxCharachters)}...";
+    }
+}
+
+<div class="card mb-4" style="width: auto; min-width: 200px;">
+    <div class="card-img-top p-3 d-flex justify-content-center">
+        <img style="width: 100%;" src="@Model.Image" />
+    </div>
+    <div class="card-body border-top d-flex flex-column justify-content-end border-top">
+        <h5 class="card-title">@Model.Title</h5>
+        <p>@Model.Description</p>
+        <a href="@Model.Link" class="link-primary">Read more</a>
+    </div>
+</div>

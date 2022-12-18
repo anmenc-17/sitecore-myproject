@@ -1,0 +1,26 @@
+﻿@model MyProject.Models.MyProject.ProductModel
+@{
+    if (!string.IsNullOrEmpty(Model?.PackagingInfo?.Value))
+    {
+        Model.PackagingInfo.Value = $"Packaging: {Model.PackagingInfo.Value}";
+    }
+}
+
+<div class="card p-3 mb-3">
+    <div class="row align-items-center">
+        <sc-img asp-for="Image" height="100%" class="col" style="object-fit: contain; max-width: 50%;"></sc-img>
+
+        <div class="col">
+            <h3 asp-for="ProductName"></h3>
+            <h5 asp-for="PackagingInfo" class="card-title"></h5>
+            @if (Model?.PDF?.Value != null) {
+                <a class="link-primary" href="@Model.PDF.Value?.Src" target="_blank">@Model.PDF.Value?.DisplayName</a>
+            }
+        </div>
+    </div>
+    <div>
+        <div class="card-body">
+            <sc-text class="card-text" asp-for="Description" />
+        </div>
+    </div>
+</div>

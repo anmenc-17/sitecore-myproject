@@ -1,0 +1,37 @@
+﻿---
+ID: "8ec4d690-815c-4741-a54a-678748520c7b"
+Parent: "ca3d5cc0-f313-5d94-bcf3-eccb6ade5067"
+Template: "b91762aa-fdb7-4e31-be29-5a1f61e78303"
+Path: /sitecore/content/MyProject/home/My New Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0da09f1e-1b35-4d83-be1a-3329f5441ac9"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/" />
+    - ID: "174bb995-97d1-44df-b5f4-f6dd26617c1f"
+      Hint: ExampleDate
+      Value: 20221115T220000Z
+    - ID: "24a6e7c8-b845-4903-b5a2-029a5fbfad25"
+      Hint: Title
+      Value: My New Content
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221129T125842Z
+    - ID: "27d0b3d1-ade5-4b78-a6f7-af59260e2598"
+      Hint: FeaturedImage
+      Value: |
+        <image mediaid="{94219F08-9541-59C1-A92E-4127E6A7CC82}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b30bedc-0f81-4ea0-a528-f829c42eb46f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221130T114338Z

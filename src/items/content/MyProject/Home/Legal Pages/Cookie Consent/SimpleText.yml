@@ -1,0 +1,40 @@
+﻿---
+ID: "ae7bed28-fd53-434d-8ee8-ab54559222c9"
+Parent: "5ba36ed0-ee4c-4d63-84d4-a21364101ac4"
+Template: "5a0af643-0403-492b-ac95-978ae2c4ecb4"
+Path: /sitecore/content/MyProject/home/Legal Pages/Cookie Consent/SimpleText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17422eaf-325e-428f-8127-3344f7c72dba"
+      Hint: Headline
+      Value: Cookie Consent
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T195037Z
+    - ID: "3e13e5b4-9f24-4112-9526-6150c9b07ea5"
+      Hint: Text
+      Value: We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49a364f0-c63b-4508-9691-20fb2a617266"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221216T195332Z

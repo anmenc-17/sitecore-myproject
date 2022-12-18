@@ -1,0 +1,51 @@
+﻿---
+ID: "47d3a085-ad69-4b8c-a13d-480eadfd7bf9"
+Parent: "59c381e4-b02a-468e-abcc-1ba93763299e"
+Template: "34844fa9-7415-4e68-bc06-fe858748f555"
+Path: /sitecore/content/MyProject/home/Products/Product 1/Product
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04e8f048-490b-4c20-a989-c26849a5ec66"
+      Hint: PDF
+      Value: |
+        <file mediaid="{BF0665F4-D6F3-48BB-9CD8-739EB5566051}" src="-/media/BF0665F4D6F348BB9CD8739EB5566051.ashx" />
+    - ID: "07d116e1-8de7-44e9-b295-e2fd36f47009"
+      Hint: Product name
+      Value: Product 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221216T130229Z
+    - ID: "352d1113-da16-4a22-b465-02fca9526be6"
+      Hint: Packaging info
+      Value: 50x25x90
+    - ID: "44b00e56-99e4-473c-80cf-8b46ff1cba16"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper luctus felis, sed venenatis dolor malesuada vitae. Pellentesque consectetur, sem id pharetra vehicula, est metus fermentum nisl, at tempor dolor risus eu neque. Morbi in massa pellentesque, placerat metus sit amet, imperdiet dolor. Phasellus mi nisl, tristique quis facilisis vitae, porttitor ac odio. Vivamus aliquet urna rutrum odio dapibus, ut gravida quam ultrices. Morbi id enim vel ligula pellentesque feugiat et in tortor. Pellentesque a blandit ante. Curabitur a maximus velit, ac fringilla nulla. Etiam sollicitudin, lorem eu laoreet cursus, lectus risus commodo elit, eu posuere tortor quam porta orci. Vestibulum gravida felis sed felis malesuada, a euismod turpis iaculis. Proin dolor erat, elementum vitae leo vel, mattis fringilla ex.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61436554-630c-48a9-b4ea-876b9271ea4a"
+      Hint: Image
+      Value: |
+        <image mediaid="{C974FCC6-45AA-43A4-B81D-9B7AF0F14257}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b728f82-e948-46d8-8444-1dc080e51276"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221216T143623Z

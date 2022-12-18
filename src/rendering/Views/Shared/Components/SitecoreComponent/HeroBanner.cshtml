@@ -1,0 +1,9 @@
+﻿@model MyProject.Models.MyProject.HeroBannerModel
+
+<div class="card bg-dark text-white" style="margin-bottom: 2em;">
+    <sc-img asp-for="Image" class="card-img" height="300px" style="object-fit: none;"></sc-img>
+    <div class="card-img-overlay d-flex flex-column justify-content-end">
+        <h2 asp-for="Headline" class="card-title" style="-webkit-text-stroke-width: 0.5px; -webkit-text-stroke-color: black;"></h2>
+        <h3><a asp-for="CTA" class="link-light" >CTA</a></h3>
+    </div>
+</div>
