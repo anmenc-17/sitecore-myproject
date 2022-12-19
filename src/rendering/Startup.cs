@@ -68,6 +68,7 @@ namespace MyProject
                         .AddModelBoundView<ArticleListModel>("SplittedArticleCardsRendering")
                         .AddModelBoundView<ProductListModel>("SplittedProductCardsRendering")
                         .AddModelBoundView<ProductListModel>("ProductCarouselRendering")
+                        .AddModelBoundView<ArticleListModel>("ArticleCarouselRendering")
 
                         .AddPartialView("Styleguide-Layout", "_StyleguideLayout")
                         .AddPartialView("GraphQL-Layout", "_GraphQLLayout")

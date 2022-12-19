@@ -8,6 +8,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "01217e01-a2a8-4269-8cc6-6c96bfe02f00"
+      Hint: ShowInCarousel
+      Value: 1
     - ID: "105f938a-50f1-4ff3-91d7-80045c6bbaf3"
       Hint: Publishing Date
       Value: 20221130T220000Z
@@ -41,11 +44,11 @@ Languages:
         <image mediaid="{DDCDF676-0762-4625-8E73-74D47ACA7BBF}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8c65e540-661e-48db-b186-1814f6a47398"
+      Value: "35e6e071-731c-4a15-8842-864601d83583"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221217T173945Z
+      Value: 20221219T155127Z

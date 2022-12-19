@@ -2,7 +2,7 @@
 
 <div class="card mb-4" style="width: auto; min-width: 200px;">
     <div class="card-img-top p-3 d-flex justify-content-center">
-        @Html.Raw(Model.Image)
+        <img style="width: 100%;" src="@Model.Image" />
     </div>
     <div class="card-body border-top d-flex flex-column justify-content-end border-top">
         <p class="card-text text-end">@Model.Date.ToString("MM/dd/yyyy")</p>

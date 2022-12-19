@@ -1,0 +1,62 @@
+﻿@using MyProject.Models.MyProject
+
+@model ArticleListModel
+@{
+    var items = Model.ArticleCards
+        .Where(x => x.ShowInCarousel)
+        .OrderBy(x => x.Title)
+        .Select((x, i) => (x, i))
+        .ToList();
+}
+
+@if (Model == null)
+{
+    <p>The object is null</p>
+}
+else if (Model.ArticleCards == null)
+{
+
+    <p>The ArticleCards is null</p>
+}
+else
+{
+    <div id="carouselExampleIndicators" class="carousel slide mb-3" data-ride="carousel"
+     style="background: #80808080;">
+
+        <ol class="carousel-indicators">
+
+            @foreach (var (item, i) in items)
+            {
+                <li class="@(i == 0 ? "active" : "")"
+                    data-slide-to="@i"
+                    data-target="#carouselExampleIndicators"></li>
+            }
+
+        </ol>
+
+        <div class="carousel-inner">
+            @foreach (var (item, i) in items)
+            {
+                <div class="carousel-item @(i == 0 ? "active" : "")">
+                    <img class="d-block w-50" src="@item.Image" alt="@(i + 1) slide"
+                        style="margin: auto;height: 400px;object-fit: scale-down;">
+
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3 style="-webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;">
+                            @item.Title
+                        </h3>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+}

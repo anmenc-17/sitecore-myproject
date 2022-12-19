@@ -29,9 +29,14 @@ Languages:
               s:ph="NavPlaceholder" />
             <r
               uid="{77AB0496-7033-4D17-BE9A-DCF65C2EEE2C}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{F0F6F8DD-D9ED-4257-BDCB-9C7B57E4B0A0}']"
               s:ds="{C659C2AC-55B3-4922-9AAF-5D6AD63D3952}"
               s:id="{CC3195C5-D85A-46CC-BCC5-D501C48F2147}"
+              s:ph="jss-main" />
+            <r
+              uid="{4C1D1176-1750-4AFD-A7F3-0A079C78A333}"
+              p:after="*[1=2]"
+              s:id="{A2BFDFF1-B8D3-47FE-A278-295AA5FFEFD5}"
               s:ph="jss-main" />
           </d>
         </r>
@@ -54,11 +59,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f8aad062-fe03-473d-a847-a205da1d867c"
+      Value: "07e54139-471f-42a9-bf2c-07c0e64593ac"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221218T184510Z
+      Value: 20221219T151223Z

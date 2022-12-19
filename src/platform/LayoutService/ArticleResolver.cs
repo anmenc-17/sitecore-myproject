@@ -6,6 +6,7 @@ using Sitecore.Diagnostics;
 using Sitecore.LayoutService.Configuration;
 using Sitecore.LayoutService.ItemRendering.ContentsResolvers;
 using Sitecore.Mvc.Presentation;
+using Sitecore.Resources;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -67,23 +68,27 @@ namespace MyProject.LayoutService
                     Log.Info($"Image: {contentItem[Templates.Article.Fields.Image]}", this);
                     Log.Info($"Host: {Environment.GetEnvironmentVariable("Sitecore_Identity_Server_CallbackAuthority")}", this);
 
+                    var showInCarousel = contentItem[Templates.Article.Fields.ShowInCarousel];
                     var realItemTag = contentItem.Fields.Where(x => x.ID == Templates.Article.Fields.Image).FirstOrDefault().Value;
 
                     string realTag = string.Empty;
+                    string imageSrc = string.Empty;
                     if (realItemTag != null)
                     {
                         var realItemId = TagHelper.GetIdFromTag(realItemTag);
                         Log.Info($"Real item id: {realItemId}", this);
                         var host = Environment.GetEnvironmentVariable("Sitecore_Identity_Server_CallbackAuthority");
-                        realTag = $"<img style=\"width: 100%;\" src=\"{host}/sitecore/shell/-/media/{realItemId}.ashx\" />";
+                        imageSrc = $"{host}/sitecore/shell/-/media/{realItemId}.ashx";
+                        realTag = $"<img style=\"width: 100%;\" src=\"{imageSrc}\" />";
                     }
 
                     return new
                     {
                         Link = _linkManager.GetItemUrl(articlePage),
                         Title = contentItem[Templates.Article.Fields.Title],
-                        Image = realTag,
-                        Date = DateUtil.IsoDateToDateTime(contentItem[Templates.Article.Fields.Date])
+                        Image = imageSrc,
+                        Date = DateUtil.IsoDateToDateTime(contentItem[Templates.Article.Fields.Date]),
+                        ShowInCarousel = showInCarousel == "1",
                     };
                 });
 

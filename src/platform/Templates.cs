@@ -28,6 +28,7 @@ namespace MyProject
                 public static readonly ID Image = ID.Parse("{7BF23061-D8B9-4DA9-B5A8-4DDC5BBE6DE5}");
                 public static readonly ID Date = ID.Parse("{105F938A-50F1-4FF3-91D7-80045C6BBAF3}");
                 public static readonly ID Title = ID.Parse("{7B45C0E9-FF2E-466B-B025-CCB5606BAFD6}");
+                public static readonly ID ShowInCarousel = ID.Parse("{01217E01-A2A8-4269-8CC6-6C96BFE02F00}");
             }
         }
 

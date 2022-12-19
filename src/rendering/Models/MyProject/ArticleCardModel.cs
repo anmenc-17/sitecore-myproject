@@ -16,5 +16,8 @@ namespace MyProject.Models.MyProject
 
         [SitecoreComponentField]
         public string Link { get; set; }
+
+        [SitecoreComponentField]
+        public bool ShowInCarousel { get; set; }
     }
 }
