@@ -42,14 +42,14 @@ Languages:
     - ID: "7bf23061-d8b9-4da9-b5a8-4ddc5bbe6de5"
       Hint: Image
       Value: |
-        <image mediaid="{CDB75B18-FEA2-410F-A518-9F74C333147B}" />
+        <image mediaid="{54EACD35-2614-4F3F-97B7-2A0A36E3F60A}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "77edd8e0-dfb6-4025-a3e0-6892ca6119df"
+      Value: "972f4baf-c9c2-459d-8e11-e5922162b897"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221218T195255Z
+      Value: 20221219T092926Z
